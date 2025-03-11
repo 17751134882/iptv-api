@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-11 18:35:11,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-12 06:29:33,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -18,7 +18,7 @@ CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CETV1,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 CETV2,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
@@ -28,16 +28,16 @@ CETV4,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 央视台球,http://gat.bkpcp.top/ymg.php?id=mlzq
 风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云足球,http://211.101.234.24:866/aishang/migu.php/migu.php?id=mlzq
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
-黑龙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD
+黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
@@ -76,7 +76,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
@@ -85,12 +85,11 @@ Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
+海看电竞,http://139.129.231.228:50060/rtp/239.21.1.135:5002
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=bd38c03a3ce1
-爱电竞,http://t8622699o8.vicp.fun:60024/itv/6000000006000230630.m3u8?cdn=wasusyt
 
 🎵音乐频道,#genre#
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-音乐调频广播,http://120.55.49.231:3095/rtp/233.50.201.82:5140
