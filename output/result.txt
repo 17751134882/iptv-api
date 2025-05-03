@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-05-03 06:57:09,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-05-03 19:05:30,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011218
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
