@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-05-11 18:49:05,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+2025-05-12 06:49:50,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-2,http://59.188.94.126:35455/bptv/10000100000000050000000003407051.m3u8
 CCTV-3,http://59.188.94.126:35455/bptv/10000100000000050000000003870746.m3u8
 CCTV-4,http://59.188.94.126:35455/bptv/10000100000000050000000003870747.m3u8
-CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-5,http://59.188.94.126:35455/bptv/10000100000000050000000003870748.m3u8
 CCTV-5+,http://59.188.94.126:35455/bptv/10000100000000050000000003870759.m3u8
 CCTV-6,http://59.188.94.126:35455/bptv/10000100000000050000000003870749.m3u8
 CCTV-7,http://59.188.94.126:35455/bptv/10000100000000050000000003870750.m3u8
