@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-06-10 06:43:21,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-06-10 18:46:29,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
@@ -12,12 +12,12 @@ CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
-CCTV-13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
-CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
@@ -30,4 +30,4 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
