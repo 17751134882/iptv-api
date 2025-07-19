@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-07-19 18:46:18,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+2025-07-20 06:45:17,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
-CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+CCTV-1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -17,7 +17,7 @@ CCTV-11,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0
 CCTV-12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
+CCTV-15,http://60.29.124.66:6080/hls/26/index.m3u8
 CCTV-16,http://cntv.dfkj.live/bestv.php?id=cctv16hd8m/8000000
 CCTV-17,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
 
@@ -30,4 +30,4 @@ CCTV-17,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
+CCTV-15,http://60.29.124.66:6080/hls/26/index.m3u8
