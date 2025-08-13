@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-13 06:44:00,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+2025-08-13 18:49:42,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
@@ -16,7 +16,7 @@ CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
+CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
