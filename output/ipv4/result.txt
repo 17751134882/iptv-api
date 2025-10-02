@@ -1,22 +1,22 @@
 🕘️更新时间,#genre#
-2025-10-02 18:45:03,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2025-10-03 06:41:49,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
-CCTV-3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
-CCTV-4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
-CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+CCTV-3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5,http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
+CCTV-5+,http://113.26.202.52:1299/tsfile/live/0016_1.m3u8
+CCTV-6,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
-CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+CCTV-10,http://113.26.202.52:1299/tsfile/live/0010_1.m3u8
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14,http://113.26.202.52:1299/tsfile/live/0014_1.m3u8
 CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
