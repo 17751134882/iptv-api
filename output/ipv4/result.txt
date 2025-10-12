@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-12 18:44:00,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-10-13 06:41:03,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -17,9 +17,9 @@ CCTV-11,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0
 CCTV-12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8
+CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 
 💰央视付费频道,#genre#
 
@@ -30,4 +30,4 @@ CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&a
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8
+CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
