@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-30 18:46:59,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2025-10-31 06:42:16,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
 CCTV-3,http://1.31.14.70:54321/hls/6/index.m3u8
 CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
@@ -19,7 +19,7 @@ CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
-CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 
 💰央视付费频道,#genre#
 
