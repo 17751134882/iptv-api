@@ -1,25 +1,25 @@
 🕘️更新时间,#genre#
-2025-10-30 06:43:09,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-10-30 18:46:59,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-4,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5+,http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-7,http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
+CCTV-3,http://1.31.14.70:54321/hls/6/index.m3u8
+CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-7,http://1.31.14.70:54321/hls/9/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
-CCTV-10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
+CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
+CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
+CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
+CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 
 💰央视付费频道,#genre#
 
