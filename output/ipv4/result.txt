@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-01 18:45:26,http://sh.lnott.top:880/dx01.m3u8
+2025-11-02 06:43:19,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://sh.lnott.top:880/dx01.m3u8
+CCTV-1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
 CCTV-3,http://1.31.14.70:54321/hls/6/index.m3u8
 CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
@@ -13,13 +13,13 @@ CCTV-7,http://1.31.14.70:54321/hls/9/index.m3u8
 CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
-CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
 CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
+CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
