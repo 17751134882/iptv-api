@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-07 18:49:26,http://sh.lnott.top:880/dx01.m3u8
+2025-11-08 06:42:47,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://sh.lnott.top:880/dx01.m3u8
@@ -17,7 +17,7 @@ CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklis
 CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
-CCTV-15,http://sh.lnott.top:880/dx15.m3u8
+CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 
@@ -30,4 +30,4 @@ CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://sh.lnott.top:880/dx15.m3u8
+CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
