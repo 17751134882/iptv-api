@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-01-11 06:43:22,http://sh.lnott.top:880/dx01.m3u8
+2026-01-11 18:45:26,http://120.76.248.139/live/bfgd/4200000484.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://sh.lnott.top:880/dx01.m3u8
+CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV-5,http://69.30.246.194/live/cctv5p.m3u8
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV-6,http://27.41.245.32:801/hls/6/index.m3u8
 CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8
 CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8
-CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8
+CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
@@ -19,7 +19,7 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://27.41.245.32:801/hls/14/index.m3u8
 CCTV-15,http://btjg.net:809/hls/15/index.m3u8
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 
 💰央视付费频道,#genre#
 
