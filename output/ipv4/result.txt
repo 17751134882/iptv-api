@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-07 09:48:20,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-07 19:16:16,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -18,7 +18,7 @@ CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 💰央视付费频道,#genre#
